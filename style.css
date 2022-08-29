@@ -1,0 +1,70 @@
+body{
+
+    background: url('ComputerDesktopWallpapersCollection881_085.jpg');
+    
+    }
+    .main{
+        padding: 50px;
+        margin-top: 50px;
+        background-color: aqua;
+        margin-right: 500px;
+        margin-left: 500px;
+        height: 300px;
+    border-right: #f2f2d7;
+        
+        
+        }
+
+        h1{
+            color: rgb(15, 24, 2);
+          
+        }
+        .user1{
+            width: 258px;
+            padding: 8px;
+        border-radius: 2px;
+        }
+        .fa fa-user {
+            margin-left: -20px; padding: 0px; cursor: pointer;
+          }
+
+      
+      
+        .submit{
+            color: rgb(224 237 237);
+            background-color: rgb(12, 217, 29);
+            border: 0ch;
+            margin-top: 20px;
+            width: 117px;
+            padding: 2%;
+        
+        }
+        .cancel {
+            background-color: red;
+            color: #f2f2d7;
+            margin-left: 131px;
+            padding: 2%;
+            width: 100px;
+            border: none;
+        
+        }
+        .main2{
+            width: 100%;
+           
+        }
+        .btn1{
+            padding: 3%;
+            background-color: chocolate;
+            color: white;
+            border: 0ch;
+        }
+        
+        
+        .btn2{
+            margin-left: 84px;
+            padding: 3%;
+            background-color: rgb(210, 48, 30);
+            color: white;
+            border: 0ch;
+        }
+        
